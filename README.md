@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="left">Hi 👋! I'm Adhish Chakravorty — a self-driven developer, researcher, and systems engineer blending AI, systems, and science.</h3>
 
-<h3 align="left">Hi 👋! I'm Adhish Chakravorty — a developer, researcher, and systems engineer at the intersection of AI, cloud, and quantum computing.</h3>
-
-<p align="left">📍 Currently pursuing triple degree at USC (Double Dual BS in CECS + Phy/CS, Accelerated PDP in MSCS)</p>
+<p align="left">🧠 Currently pursuing a triple degree at USC: Double Dual B.S. in Computer Engineering & Computer Science + Physics/Computer Science, and an Accelerated M.S. in Computer Science (PDP).</p>
 
 ###
 
@@ -42,32 +41,74 @@ Here are some ideas to get you started:
 
 ###
 
-<br clear="both" />
+### 🚀 Tech Stack
 
-<div align="left">
-  <h3>🧠 Tech Stack</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" />
-</div>
+#### 💻 Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
-###
-<!--
+#### 🧠 Frameworks, Libraries & AI  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Transformers](https://img.shields.io/badge/-Transformers-0055FF?style=flat&logo=huggingface&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-000000?style=flat)
+![QLoRA](https://img.shields.io/badge/-QLoRA-2C2C2C?style=flat)
+![PEFT](https://img.shields.io/badge/-PEFT-1188CC?style=flat)
+![vLLM](https://img.shields.io/badge/-vLLM-202020?style=flat)
+![NeMo](https://img.shields.io/badge/-NeMoSkills-0D1117?style=flat)
+![XGBoost](https://img.shields.io/badge/-XGBoost-DA5345?style=flat)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+
+#### 🌐 Web, UI & API  
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+#### ☁️ Cloud, Infra & DevOps  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Slurm](https://img.shields.io/badge/-Slurm-008B8B?style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+#### 🧪 Tools & Platforms  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?style=flat&logo=ibm&logoColor=white)
+![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat&logo=google&logoColor=white)
+
+---
+
 <p align="left">
-⚡ Fun Fact: I've built everything from LLM-powered medical agents to real-time streaming systems and 3D LiDAR-based SLAM for self-driving vehicles. Always chasing the edge of what's possible.
+✨ Fun Fact: I’ve built quantum circuit simulators, AI math solvers, RTMS audio agents, and a cross-platform Airdrop clone — all before graduating.
 </p>
--->
 
 [![](https://visitcount.itsvg.in/api?id=NxtGenLegend&icon=0&color=0)](https://visitcount.itsvg.in)
