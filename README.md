@@ -72,6 +72,10 @@ Here are some ideas to get you started:
 ![vLLM](https://img.shields.io/badge/-vLLM-202020?style=flat)
 ![NeMo](https://img.shields.io/badge/-NeMoSkills-0D1117?style=flat)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-DA5345?style=flat)
+![LightGBM](https://img.shields.io/badge/-LightGBM-9ACD32?style=flat)
+![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Ray](https://img.shields.io/badge/-Ray-4B8BBE?style=flat)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
@@ -82,9 +86,9 @@ Here are some ideas to get you started:
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-E1222E?style=flat&logo=autodesk&logoColor=white)
 
 #### ☁️ Cloud, Infra & DevOps  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -96,6 +100,11 @@ Here are some ideas to get you started:
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Slurm](https://img.shields.io/badge/-Slurm-008B8B?style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-000000?style=flat&logo=ansible&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 #### 🧪 Tools & Platforms  
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -103,7 +112,7 @@ Here are some ideas to get you started:
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?style=flat&logo=ibm&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjMwIiB3aWR0aD0iMzAiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjMDAwIiByeD0iMyIvPjwvc3ZnPg==)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=chainlink&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-3949AB?style=flat)
 ![Whisper](https://img.shields.io/badge/-Whisper-4B4B4B?style=flat)
 ![Vapi](https://img.shields.io/badge/-Vapi-202020?style=flat)
@@ -112,7 +121,11 @@ Here are some ideas to get you started:
 ![Supabase Auth](https://img.shields.io/badge/-Supabase%20Auth-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
+![Parquet](https://img.shields.io/badge/-Parquet-2560E0?style=flat&logo=apachespark&logoColor=white)
+![ANSYS Fluent](https://img.shields.io/badge/-ANSYS%20Fluent-FDCC00?style=flat&logo=ansys&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Zsh](https://img.shields.io/badge/-Zsh-000000?style=flat&logo=gnu&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
 ---
 
