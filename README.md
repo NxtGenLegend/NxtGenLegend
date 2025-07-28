@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Hi 👋! I'm Adhish Chakravorty — a developer, researcher, and systems engineer at the intersection of AI, cloud, and quantum computing.</h3>
 
-<p align="left">📍 Currently pursuing my MS in Computer Science and dual undergraduate degrees in Computer Engineering and Physics at USC.</p>
+<p align="left">📍 Currently pursuing triple degree at USC (Double Dual BS in CECS + Phy/CS, Accelerated PDP in MSCS)</p>
 
 ###
 
