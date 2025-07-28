@@ -99,11 +99,20 @@ Here are some ideas to get you started:
 
 #### 🧪 Tools & Platforms  
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?style=flat&logo=ibm&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjMwIiB3aWR0aD0iMzAiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjMDAwIiByeD0iMyIvPjwvc3ZnPg==)
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-3949AB?style=flat)
+![Whisper](https://img.shields.io/badge/-Whisper-4B4B4B?style=flat)
+![Vapi](https://img.shields.io/badge/-Vapi-202020?style=flat)
+![Firebase ML](https://img.shields.io/badge/-Firebase%20ML-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Clerk](https://img.shields.io/badge/-Clerk-4A00E0?style=flat)
+![Supabase Auth](https://img.shields.io/badge/-Supabase%20Auth-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
 
 ---
 
