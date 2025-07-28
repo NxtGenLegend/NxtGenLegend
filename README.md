@@ -32,13 +32,13 @@ Here are some ideas to get you started:
 </div>
 
 ###
-
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NxtGenLegend&show_icons=true&theme=radical" height="150" />
   <img src="https://streak-stats.demolab.com?user=NxtGenLegend&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NxtGenLegend&layout=compact&theme=radical" height="150" />
 </div>
-
+-->
 ###
 
 ### 🚀 Tech Stack
