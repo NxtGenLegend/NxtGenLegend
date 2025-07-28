@@ -64,9 +64,10 @@ Here are some ideas to get you started:
 </div>
 
 ###
-
+<!--
 <p align="left">
 ⚡ Fun Fact: I've built everything from LLM-powered medical agents to real-time streaming systems and 3D LiDAR-based SLAM for self-driving vehicles. Always chasing the edge of what's possible.
 </p>
+-->
 
 [![](https://visitcount.itsvg.in/api?id=NxtGenLegend&icon=0&color=0)](https://visitcount.itsvg.in)
