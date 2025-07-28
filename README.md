@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 </div>
 -->
 ###
-
 ### 🚀 Tech Stack
 
 #### 💻 Languages  
@@ -79,6 +78,8 @@ Here are some ideas to get you started:
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21F?style=flat&logo=huggingface&logoColor=black)
+![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
 
 #### 🌐 Web, UI & API  
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -105,6 +106,10 @@ Here are some ideas to get you started:
 ![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![CMake](https://img.shields.io/badge/-CMake-F34B7D?style=flat&logo=cmake&logoColor=white)
+![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white)
+![NVIDIA CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![Tmux](https://img.shields.io/badge/-tmux-1BB91F?style=flat)
 
 #### 🧪 Tools & Platforms  
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -126,8 +131,8 @@ Here are some ideas to get you started:
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Zsh](https://img.shields.io/badge/-Zsh-000000?style=flat&logo=gnu&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
----
 
 <p align="left">
 ✨ Fun Fact: I’ve built quantum circuit simulators, AI math solvers, RTMS audio agents, and a cross-platform Airdrop clone — all before graduating.
