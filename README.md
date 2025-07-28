@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ###
 ### 🚀 Tech Stack
 
-#### 💻 Languages  
+#### 💻 Languages & Data  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
-#### 🧠 Frameworks, Libraries & AI  
+#### 🧠 AI, ML & Scientific Computing  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Transformers](https://img.shields.io/badge/-Transformers-0055FF?style=flat&logo=huggingface&logoColor=white)
@@ -70,13 +70,14 @@ Here are some ideas to get you started:
 ![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Ray](https://img.shields.io/badge/-Ray-4B8BBE?style=flat)
 ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?style=flat&logo=ibm&logoColor=white)
+![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat&logo=google&logoColor=white)
+![Parquet](https://img.shields.io/badge/-Parquet-2560E0?style=flat&logo=apachespark&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFDF00?style=flat&logo=huggingface&logoColor=black)
 
-#### 🌐 Web, UI & API  
+#### 🌐 Web, UI & App Dev  
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
@@ -84,6 +85,9 @@ Here are some ideas to get you started:
 ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-E1222E?style=flat&logo=autodesk&logoColor=white)
 
 #### ☁️ Cloud, Infra & DevOps  
@@ -108,19 +112,19 @@ Here are some ideas to get you started:
 ![tmux](https://img.shields.io/badge/-tmux-1BB91F?style=flat&logo=tmux&logoColor=white)
 ![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white)
 ![NVIDIA CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
-#### 🗃️ Databases  
+#### 🗃️ Databases & Data Viz  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
-#### 📊 Data Viz & Dashboards  
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=flat&logo=d3dotjs&logoColor=white)
 
-#### 🛠️ Build & CLI Tools  
+#### 🛠️ Tooling, Agents & Collaboration  
 ![Make](https://img.shields.io/badge/-Make-000000?style=flat&logo=gnubash&logoColor=white)
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 ![1Password CLI](https://img.shields.io/badge/-1Password-0094F5?style=flat&logo=1password&logoColor=white)
@@ -128,16 +132,6 @@ Here are some ideas to get you started:
 ![Zsh](https://img.shields.io/badge/-Zsh-000000?style=flat&logo=gnu&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![Warp](https://img.shields.io/badge/-Warp-3E5C9A?style=flat&logo=warp&logoColor=white)
-
-#### 📦 Data & Scientific Tools  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?style=flat&logo=ibm&logoColor=white)
-![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat&logo=google&logoColor=white)
-![Parquet](https://img.shields.io/badge/-Parquet-2560E0?style=flat&logo=apachespark&logoColor=white)
-![ANSYS Fluent](https://img.shields.io/badge/-ANSYS%20Fluent-FDCC00?style=flat&logo=ansys&logoColor=black)
-
-#### 🗂️ PM & Collaboration  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
@@ -149,8 +143,6 @@ Here are some ideas to get you started:
 ![iMessage](https://img.shields.io/badge/-iMessage-34C759?style=flat&logo=apple&logoColor=white)
 ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
-
-#### 🤖 AI Agents & Automation  
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000?style=flat&logo=githubcopilot&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-000000?style=flat&logo=google&logoColor=white)
