@@ -85,6 +85,7 @@ Here are some ideas to get you started:
 
 #### 📱 Mobile & Desktop Development  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
 
 #### 🧠 AI, ML & Scientific Computing  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -101,7 +102,6 @@ Here are some ideas to get you started:
 ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?style=flat&logo=ibm&logoColor=white)
 ![Qiskit-Metal](https://img.shields.io/badge/-Qiskit--Metal-6929C4?style=flat)
 ![LoRA](https://img.shields.io/badge/-LoRA-FF6B6B?style=flat)
@@ -111,6 +111,7 @@ Here are some ideas to get you started:
 ![Cirq](https://img.shields.io/badge/-Cirq-4285F4?style=flat)
 ![KLayout](https://img.shields.io/badge/-KLayout-4B0082?style=flat)
 ![Beamer](https://img.shields.io/badge/-Beamer-008080?style=flat)
+![AWS Palace](https://img.shields.io/badge/-AWS%20Palace-FF9900?style=flat)
 
 #### 🗃️ Databases & Data Tools  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -120,6 +121,7 @@ Here are some ideas to get you started:
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat&logo=google&logoColor=white)
 ![Parquet](https://img.shields.io/badge/-Parquet-2560E0?style=flat&logo=apachespark&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 #### 📊 Data Visualization & Analytics  
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
@@ -133,21 +135,33 @@ Here are some ideas to get you started:
 ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
 
 #### ☁️ Cloud & Infrastructure  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+##### AWS Services
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
+![AWS EFS](https://img.shields.io/badge/-AWS%20EFS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![AWS CloudWatch](https://img.shields.io/badge/-AWS%20CloudWatch-FF4F00?style=flat&logo=amazoncloudwatch&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/-AWS%20RDS-527FFF?style=flat&logo=amazonrds&logoColor=white)
+![AWS SageMaker](https://img.shields.io/badge/-AWS%20SageMaker-FF9900?style=flat&logo=amazonsagemaker&logoColor=white)
+
+##### Other Cloud Platforms
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/-Azure%20Functions-0078D7?style=flat&logo=azure-functions&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-F80000?style=flat&logo=oracle&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![SAP](https://img.shields.io/badge/-SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
+
+##### Containerization & Orchestration
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+##### Deployment Platforms
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![AWS Palace](https://img.shields.io/badge/-AWS%20Palace-FF9900?style=flat)
 
 #### 🛠️ DevOps & Development Tools  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -203,7 +217,6 @@ Here are some ideas to get you started:
 ![ClickUp](https://img.shields.io/badge/-ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white)
 ![Atlassian](https://img.shields.io/badge/-Atlassian-0052CC?style=flat&logo=atlassian&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
-![Azure Functions](https://img.shields.io/badge/-Azure%20Functions-0078D7?style=flat&logo=azure-functions&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)
 ![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white)
@@ -233,6 +246,8 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/-Windsurf-0B100F?style=flat&logo=windsurf&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-007ACC?style=flat&logo=xcode&logoColor=white)
+
+#### 🌐 Browsers & Web Testing  
 ![Chromium](https://img.shields.io/badge/-Chromium-4285F4?style=flat&logo=googlechrome&logoColor=white)
 
 #### 📦 Package Managers & Version Control  
@@ -245,6 +260,7 @@ Here are some ideas to get you started:
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 ![1Password CLI](https://img.shields.io/badge/-1Password-0094F5?style=flat&logo=1password&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-121011?style=flat&logo=github&logoColor=white)
+
 <p align="left">
 ✨ Fun Fact: I’ve built quantum circuit simulators, AI math solvers, RTMS audio agents, and a cross-platform Airdrop clone — all before graduating.
 </p>
