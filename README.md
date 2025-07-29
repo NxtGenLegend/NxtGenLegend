@@ -245,7 +245,6 @@ Here are some ideas to get you started:
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 ![1Password CLI](https://img.shields.io/badge/-1Password-0094F5?style=flat&logo=1password&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-121011?style=flat&logo=github&logoColor=white)
-
 <p align="left">
 ✨ Fun Fact: I’ve built quantum circuit simulators, AI math solvers, RTMS audio agents, and a cross-platform Airdrop clone — all before graduating.
 </p>
