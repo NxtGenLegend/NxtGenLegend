@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+RSTUDIO
 <h3 align="left">Hi 👋! I'm Adhish Chakravorty — a self-driven developer, researcher, and systems engineer blending AI, systems, and science.</h3>
 
 <p align="left">🧠 Currently pursuing a triple degree at USC: Double Dual B.S. in Computer Engineering & Computer Science + Physics/Computer Science, and an Accelerated M.S. in Computer Science (PDP).</p>
@@ -55,6 +57,8 @@ Here are some ideas to get you started:
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white)
+![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white)
+![Slurm](https://img.shields.io/badge/-Slurm-008B8B?style=flat)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -100,7 +104,6 @@ Here are some ideas to get you started:
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat)
-![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?style=flat&logo=ibm&logoColor=white)
 ![Qiskit-Metal](https://img.shields.io/badge/-Qiskit--Metal-6929C4?style=flat)
@@ -149,8 +152,14 @@ Here are some ideas to get you started:
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-AB2B28?style=flat&logo=freebsd&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![NVIDIA CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
-![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white)
-![Slurm](https://img.shields.io/badge/-Slurm-008B8B?style=flat)
+![Asana](https://img.shields.io/badge/-Asana-273347?style=flat&logo=asana&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)
+![ClickUp](https://img.shields.io/badge/-ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white)
+![Atlassian](https://img.shields.io/badge/-Atlassian-0052CC?style=flat&logo=atlassian&logoColor=white)
+![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white)
+![GitBook](https://img.shields.io/badge/-GitBook-3884FF?style=flat&logo=gitbook&logoColor=white)
+![Sphinx](https://img.shields.io/badge/-Sphinx-000?style=flat&logo=sphinx&logoColor=white)
 
 #### 📊 Data Science & Analytics
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -169,8 +178,9 @@ Here are some ideas to get you started:
 ![ETL](https://img.shields.io/badge/-ETL-9370DB?style=flat)
 ![Parquet](https://img.shields.io/badge/-Parquet-2560E0?style=flat&logo=apachespark&logoColor=white)
 
-#### 🛠️ Development Environment
+#### 🛠️ Development Environments &  Package Managers
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white)
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat)
 ![Windsurf](https://img.shields.io/badge/-Windsurf-0B100F?style=flat&logo=windsurf&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000?style=flat&logo=pycharm&logoColor=white)
@@ -220,17 +230,6 @@ Here are some ideas to get you started:
 ![Framer](https://img.shields.io/badge/-Framer-05F?style=flat&logo=framer&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
-
-#### 🤝 Collaboration & AI Tools
-![v0](https://img.shields.io/badge/-v0-000?style=flat&logo=v0&logoColor=white)
-![Asana](https://img.shields.io/badge/-Asana-273347?style=flat&logo=asana&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)
-![ClickUp](https://img.shields.io/badge/-ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white)
-![Atlassian](https://img.shields.io/badge/-Atlassian-0052CC?style=flat&logo=atlassian&logoColor=white)
-![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white)
-![GitBook](https://img.shields.io/badge/-GitBook-3884FF?style=flat&logo=gitbook&logoColor=white)
-![Sphinx](https://img.shields.io/badge/-Sphinx-000?style=flat&logo=sphinx&logoColor=white)
 
 <p align="left">
 ✨ Fun Fact: I’ve built quantum circuit simulators, AI math solvers, RTMS audio agents, and a cross-platform Airdrop clone — all before graduating.
