@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-RSTUDIO
 <h3 align="left">Hi 👋! I'm Adhish Chakravorty — a self-driven developer, researcher, and systems engineer blending AI, systems, and science.</h3>
 
 <p align="left">🧠 Currently pursuing a triple degree at USC: Double Dual B.S. in Computer Engineering & Computer Science + Physics/Computer Science, and an Accelerated M.S. in Computer Science (PDP).</p>
@@ -107,13 +106,14 @@ RSTUDIO
 ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?style=flat&logo=ibm&logoColor=white)
 ![Qiskit-Metal](https://img.shields.io/badge/-Qiskit--Metal-6929C4?style=flat)
+![ANSYS HFSS](https://img.shields.io/badge/-ANSYS%20HFSS-FFB71B?style=flat)
 ![Cirq](https://img.shields.io/badge/-Cirq-4285F4?style=flat)
 ![KLayout](https://img.shields.io/badge/-KLayout-4B0082?style=flat)
 ![Beamer](https://img.shields.io/badge/-Beamer-008080?style=flat)
 ![LoRA](https://img.shields.io/badge/-LoRA-FF6B6B?style=flat)
 ![SFT](https://img.shields.io/badge/-SFT-4ECDC4?style=flat)
 ![SquADDS](https://img.shields.io/badge/-SquADDS-9B59B6?style=flat)
-![SQDMeta](https://img.shields.io/badge/-SQDMeta-8B4A9E?style=flat)
+![SQDMetal](https://img.shields.io/badge/-SQDMeta-8B4A9E?style=flat)
 ![AWS Palace](https://img.shields.io/badge/-AWS%20Palace-FF9900?style=flat)
 
 #### ☁️ Infrastructure & DevOps
@@ -222,7 +222,6 @@ RSTUDIO
 ![Maya](https://img.shields.io/badge/-Maya-37A5CC?style=flat)
 ![Onshape](https://img.shields.io/badge/-Onshape-1C4BFF?style=flat)
 ![Autodesk Vault](https://img.shields.io/badge/-Autodesk%20Vault-FF7A00?style=flat)
-![ANSYS HFSS](https://img.shields.io/badge/-ANSYS%20HFSS-FFB71B?style=flat)
 ![Mathcad](https://img.shields.io/badge/-Mathcad-E97627?style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
