@@ -132,6 +132,8 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Lightning.ai](https://img.shields.io/badge/-Lightning.ai-792EE5?style=flat&logo=pytorch-lightning&logoColor=white)
+![RunPod](https://img.shields.io/badge/-RunPod-6366F1?style=flat&logo=nvidia&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-000000?style=flat&logo=ansible&logoColor=white)
 ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=white)
 ![ngrok](https://img.shields.io/badge/-ngrok-1F1E37?style=flat&logo=ngrok&logoColor=white)
@@ -180,6 +182,8 @@ Here are some ideas to get you started:
 
 #### 🛠️ Development Environments &  Package Managers
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white)
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat)
 ![Windsurf](https://img.shields.io/badge/-Windsurf-0B100F?style=flat&logo=windsurf&logoColor=white)
