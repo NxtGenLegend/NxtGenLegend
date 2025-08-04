@@ -217,6 +217,9 @@ Here are some ideas to get you started:
 #### 🎨 Design & Engineering
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-E1222E?style=flat&logo=autodesk&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?style=flat)
+![Fusion 360](https://img.shields.io/badge/-Fusion%20360-FF6D00?style=flat&logo=autodesk&logoColor=white)
+![PTC Creo](https://img.shields.io/badge/-PTC%20Creo-0078D7?style=flat&logo=ptc&logoColor=white)
+![ANSYS Fluent](https://img.shields.io/badge/-ANSYS%20Fluent-FFB71B?style=flat&logo=ansys&logoColor=white)
 ![Revit](https://img.shields.io/badge/-Revit-0696D7?style=flat)
 ![Inventor](https://img.shields.io/badge/-Inventor-FF7A00?style=flat)
 ![Maya](https://img.shields.io/badge/-Maya-37A5CC?style=flat)
@@ -227,8 +230,11 @@ Here are some ideas to get you started:
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
 ![Framer](https://img.shields.io/badge/-Framer-05F?style=flat&logo=framer&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
-![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
+![Adobe Acrobat](https://img.shields.io/badge/-Adobe%20Acrobat-EC1C24?style=flat&logo=adobeacrobatreader&logoColor=white)
 
 <p align="left">
 ✨ Fun Fact: I’ve built quantum circuit simulators, AI math solvers, RTMS audio agents, and a cross-platform Airdrop clone — all before graduating.
