@@ -240,8 +240,4 @@ Here are some ideas to get you started:
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
 ![Adobe Acrobat](https://img.shields.io/badge/-Adobe%20Acrobat-EC1C24?style=flat&logo=adobeacrobatreader&logoColor=white)
 
-<p align="left">
-✨ Fun Fact: I’ve built quantum circuit simulators, AI math solvers, RTMS audio agents, and a cross-platform Airdrop clone — all before graduating.
-</p>
-
 [![](https://visitcount.itsvg.in/api?id=NxtGenLegend&icon=0&color=0)](https://visitcount.itsvg.in)
